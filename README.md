@@ -1,4 +1,6 @@
-Habit Tracker App
+<h1>Habit Tracker App</h1>
+
+
 The Habit Tracker app is a simple web application that allows users to track their habits and monitor their progress. It provides a calendar view to visualize habit completion for each day and displays habit details in individual habit cards. Users can add new habits, update existing ones, and delete habits they no longer wish to track.
 
 Features
